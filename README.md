@@ -1,0 +1,1 @@
+This project contains an interactive Python tool designed for on-the-fly visualizations of the car_crashes dataset. By selecting specific columns, users can gain insights into state-wise car crash metrics through dynamically generated histograms and bar plots.
